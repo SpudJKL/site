@@ -13,3 +13,20 @@ div .container .my-5{
 
     background-color: rgb(221, 178, 86)
 }
+
+.navbar { 
+    font-family:Segoe UI !important; 
+    border-bottom:1px solid #000; 
+
+}
+.navbar li a {
+    color: black;
+}
+
+.navbar li a:hover {
+    hover: black;
+    color: black;
+}
+
+
+
