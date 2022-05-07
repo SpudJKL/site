@@ -1,3 +1,15 @@
-.navbar {
-color:rgba(146, 208, 160, 1);
+html{background-color: rgb(221, 178, 86)}
+
+
+
+.card {
+    margin-left: 10%;
+    margin-bottom: 10%;
+    background-color: rgb(221, 178, 86)
+}
+
+
+div .container .my-5{
+
+    background-color: rgb(221, 178, 86)
 }
