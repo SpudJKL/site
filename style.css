@@ -1,11 +1,13 @@
-/*  Ruben Lopez x20146876   
-    Web Design and Client Side Scripting 
-    Project
-    
-    
-    CSS file for the receipt page
+/* 	Ruben Lopez x20146876  
+	Web Design and Client Side Scripting 
+	Project
+	
+	
+	CSS file for the home page
 */
+
 html{background-color: rgb(221, 178, 86)}
+
 
 
 
@@ -34,6 +36,4 @@ div .container .my-5{
     hover: black;
     color: black;
 }
-
-
 
